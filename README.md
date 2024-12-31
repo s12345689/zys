@@ -1,2 +1,2 @@
-"# zys" 
-"zys.serv00.net" 
+# zys
+ zys.serv00.net
